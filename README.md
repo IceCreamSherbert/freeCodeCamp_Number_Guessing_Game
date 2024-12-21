@@ -1,1 +1,1 @@
-This repository was created for a freeCodeCamp certification. 😁
+This repository was created for the freeCodeCamp Relational Database certification. 😁
